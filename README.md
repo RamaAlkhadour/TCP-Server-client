@@ -1,1 +1,2 @@
-# Homework2
+perl && java client
+c server
